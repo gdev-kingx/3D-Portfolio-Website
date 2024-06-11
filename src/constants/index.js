@@ -257,7 +257,7 @@ const projects = [
             },
         ],
         image: yoom,
-        source_code_link: "https://github.com/gdev-kigx/Yoom",
+        source_code_link: "https://github.com/gdev-kingx/Yoom",
     },
 ];
   
